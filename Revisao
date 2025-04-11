@@ -1,0 +1,1 @@
+Aluno.cs, AlunoRepositorio IAlunoRepositorio AppDbContext, AlunoServico AlunoRepositorio AlunoDTO.cs, AlunoController, Entity, inmemory, .AddScoped<IAlunoRepositorio, AlunoRepositorio>();
